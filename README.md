@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Diyagoyal08/Diyagoyal08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-<br><br>Hi, I'm Diya Goyal — a B.Tech student in Artificial Intelligence and Data Science with a strong interest in software development and emerging technologies. I enjoy building practical projects that combine problem-solving with creativity.<br><br>My main focus areas include Data Structures & Algorithms, modern web development, and exploring how AI tools can enhance productivity and digital experiences. I like experimenting with new technologies and turning ideas into real applications.<br><br>I have worked on projects involving React, JavaScript, and web-based systems, and I’m continuously improving my skills by building projects and learning new concepts.<br><br>I'm always open to learning, collaborating, and contributing to interesting projects.<br>
+Hi👋, I'm Diya Goyal — a B.Tech student in Artificial Intelligence and Data Science with a strong interest in software development and emerging technologies. I enjoy building practical projects that combine problem-solving with creativity.<br><br>My main focus areas include Data Structures & Algorithms, modern web development, and exploring how AI tools can enhance productivity and digital experiences. I like experimenting with new technologies and turning ideas into real applications.<br><br>I have worked on projects involving React, JavaScript, and web-based systems, and I’m continuously improving my skills by building projects and learning new concepts.<br><br>I'm always open to learning, collaborating, and contributing to interesting projects.<br>
 
 
 # 💻 Tech Stack:
